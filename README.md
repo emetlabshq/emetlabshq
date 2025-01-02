@@ -2,6 +2,24 @@
 <br>
 <br>
 <br>
+
+<p align="center">
+    <a href="https://github.com/emetlabshq">
+        <img src="https://img.shields.io/badge/HOME-007bff?style=for-the-badge&labelColor=000000" alt="HOME" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/emetlabshq/vault">
+        <img src="https://img.shields.io/badge/EMET%20VAULT-007bff?style=for-the-badge&labelColor=000000" alt="EMET VAULT" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/emetlabshq/shield">
+        <img src="https://img.shields.io/badge/S.H.I.E.L.D-007bff?style=for-the-badge&labelColor=000000" alt="S.H.I.E.L.D" style="margin: 10px;">
+    </a>
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
  
 
 
@@ -14,6 +32,16 @@
 <br>
 <br>
 <br>
+
+ 
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">
+    <img src="https://img.shields.io/badge/license-Creative%20Commons%20BY--NC--> SA%204.0-blue.svg" alt="License: CC BY-NC-SA 4.0" />
+  </a>
+ </p>
+
+
+
 <br>
 <br>
 <br>
@@ -70,3 +98,46 @@
 >
 >
 > -----
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+    <a href="https://github.com/emetlabshq">
+        <img src="https://img.shields.io/badge/HOME-007bff?style=for-the-badge&labelColor=000000" alt="HOME" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/emetlabshq/vault">
+        <img src="https://img.shields.io/badge/EMET%20VAULT-007bff?style=for-the-badge&labelColor=000000" alt="EMET VAULT" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/emetlabshq/shield">
+        <img src="https://img.shields.io/badge/S.H.I.E.L.D-007bff?style=for-the-badge&labelColor=000000" alt="S.H.I.E.L.D" style="margin: 10px;">
+    </a>
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+ 
+ 
+
+----------
+
+<br>
+<br>
+<br>
+<br>
+
+
+<h4 align="center">STAY TUNED FOR THE LATEST UPDATES!</h4>
+
+<br>
+<br>
+<br>
+<br>
